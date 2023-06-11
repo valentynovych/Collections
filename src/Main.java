@@ -1,8 +1,3 @@
-import Comparators.ComparatorExample;
-import Comparators.Person;
-import ImmutableVsMutable.ImmutableList;
-
-
 import java.util.*;
 
 public class Main {
@@ -24,12 +19,7 @@ public class Main {
         Deque<Integer> deque = new ArrayDeque<>();
 
 
-        Person person = new Person("Jon", 20);
-        Person person1 = new Person("Weak", 30);
 
-        ComparatorExample example = new ComparatorExample();
-        int res = example.compare(person, person1);
-        System.out.println(res);
 
 
 

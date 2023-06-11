@@ -12,9 +12,10 @@ public class task3 {
         String stringIn;
 
         do {
-            System.out.println("Please enter vehicle number and insert position \n" +
+            System.out.println("Please enter vehicle number\n" +
                     "\tor List for print all elements\n" +
                     "\tor Stop for exit ");
+
             stringIn = scanner.next();
 
             switch (stringIn) {

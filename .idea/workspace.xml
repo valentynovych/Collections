@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9deb40c0-541d-40b6-b423-91aec7ece344" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/src/Comparators/CompareExample.java" afterDir="false" />
+    <list default="true" id="9deb40c0-541d-40b6-b423-91aec7ece344" name="Changes" comment="fix comparator and other">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comparators/ComparatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comparators/PersonComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HierarchyBrowserManager">
@@ -140,7 +143,7 @@
       <workItem from="1686344780542" duration="5000" />
       <workItem from="1686381234230" duration="10000" />
       <workItem from="1686404156166" duration="11824000" />
-      <workItem from="1686470808526" duration="7588000" />
+      <workItem from="1686470808526" duration="8178000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1686416805365</created>
@@ -163,7 +166,28 @@
       <option name="project" value="LOCAL" />
       <updated>1686471620173</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix comparator and other">
+      <created>1686478765477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686478765477</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix comparator and other">
+      <created>1686478828949</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686478828949</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix comparator and other">
+      <created>1686478875537</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686478875537</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +218,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="fix comparator and other" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix comparator and other" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
